@@ -1,3 +1,13 @@
+ luis-moguea
+1-arina de trigo
+2-polvo para hornear 
+3-un litro de leche 
+4-5 huevos 
+5-500 g queso
+6-peperoni
+7-tomates para salsa
+
+
 
 1-2 tazas de Harina de trigo (280 gramos)
 2-1½ tazas de Agua (360 mililitros)
@@ -18,4 +28,3 @@
 -5 Precocer la masa.
 -6 Agregar ingredientes.
 -7 Hornear nuevamente con ingredientes agregados.
-=======>>>>>>> main
